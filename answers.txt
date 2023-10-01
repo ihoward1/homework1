@@ -1,0 +1,2 @@
+What is a remote repository?
+A remote repository is a shared repository where multiple different users can commit changes and create branchs from one main branch, which allows for collaboration between multiple developers.
